@@ -28,7 +28,7 @@ that touches the corerouter code. However `688a` does not compile but `94c2` doe
 
 To provision the Ubuntu 12.04 box do the following:
 
-vagrant up
+    vagrant up
 
 ## Running
 
