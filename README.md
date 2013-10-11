@@ -21,6 +21,9 @@ bba8e503c1fbcc64ec1cd50aedf2405a104575a4
 I suspect that the `688a` commit introduced the bug as it is the only commit
 that touches the corerouter code. However `688a` does not compile but `94c2` does.
 
+[Github changeset](https://github.com/unbit/uwsgi/compare/7541195a5f7504a3782a110d71b973fd570ae3f0...94c29a396a405649200c3add11630a18b0a4ea43)
+
+
 ## Install
 
 To provision the Ubuntu 12.04 box do the following:
